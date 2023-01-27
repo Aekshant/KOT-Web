@@ -1,0 +1,32 @@
+/* #e54c49 */
+
+
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .footer-col {
+        color: aliceblue;
+        flex: 1;
+        padding: 1em;
+    }
+
+    .footer{
+        position: fixed;
+        bottom: 0;
+        height: 11%;
+        left: 0;
+        width: 100%;
+        background-color: #DDDDDD;
+        border-radius: 25px;
+        /* margin-bottom: 5px; */
+    }
+
+    .footer-row {
+        display: flex;
+    }
+      
+    .footer-col {
+        color: black;
+        flex: 1;
+        padding: 1em;
+    }
+  }
