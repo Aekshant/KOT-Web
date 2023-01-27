@@ -1,7 +1,7 @@
-import Header from "./components/Header"
+import Header from "./components/UI/Header/Header"
 import Footer from "./components/UI/Footer/Footer"
-import SearchBar from "./components/SearchBar";
-import ItemAvtar from "./components/ItemAvtar";
+import SearchBar from "./components/UI/SearchBar/SearchBar";
+import ItemAvtar from "./components/UI/ItemAvtar/ItemAvtar";
 import CategoryExplore from "./components/Explore"
 import './App.css';
 

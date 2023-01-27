@@ -18,6 +18,8 @@
         background-color: #DDDDDD;
         border-radius: 25px;
         /* margin-bottom: 5px; */
+        /* border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px; */
     }
 
     .footer-row {

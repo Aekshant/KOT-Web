@@ -6,7 +6,6 @@ import GlobeImg from "./Globe.png"
 export default function Header( ){
     return ( 
         <div className="footer">
-            {/* <img src={GlobeImg} style={{ height:"50px", color:"white", display: "flow" }}/> */}
             <div className="footer-row">
                 <div className="footer-col"> 
                     <img src={HomeImg} style={{ height:"30px", color:"white" }}/>

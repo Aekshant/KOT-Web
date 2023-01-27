@@ -1,0 +1,38 @@
+
+ @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .avtar{
+      margin-left: 2%;
+      margin-right: 30%;
+    }
+    .avtar h5{
+        color: darkgray;
+        margin-bottom: 1px;
+        text-align: left;
+    }
+    .avtar h2{
+      color: red;
+      margin-top: 1px;
+      text-align: left;
+    }
+    .avtar img{
+      height: 3rem;
+      text-align: right;
+      background-color: orange;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+    .avtar-row {
+      display: flex;
+    }
+    .avtar-col {
+      color: black;
+      flex: 1;
+      padding: 1em;
+    }
+    .avtar img{
+      border-radius: 45%;
+      height: 67px;
+      width: 80px;
+    }
+  }
